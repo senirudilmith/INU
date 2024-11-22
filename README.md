@@ -5,7 +5,7 @@ This repository provides the **design, development, and control** resources for 
 ---
 
 ![Front View of INU](https://github.com/user-attachments/assets/8835d4b4-29ad-42ba-89b1-065307d096f8)
-
+*Front View of INU*
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
