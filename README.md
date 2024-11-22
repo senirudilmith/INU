@@ -29,7 +29,7 @@ This repository provides the **design, development, and control** resources for 
   <img 
     src="https://github.com/user-attachments/assets/2b3399bf-efb8-41cb-a77e-aa11635ce40a" 
     alt="Top View of INU" 
-    style="display: block; width: 800px; margin: 0 auto; margin-bottom: 20px;">
+    style="display: block; width: 1000px; margin: 0 auto; margin-bottom: 20px;">
   <div align="center" style="margin-bottom: 100px;">
     <em>Top View of INU</em>
   </div>
