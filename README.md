@@ -9,6 +9,11 @@ This repository provides the **design, development, and control** resources for 
 
 <div align="center"><em>Front View of INU</em></div>
 
+![WhatsApp Image 2024-11-22 at 16 57 12_e6109bbf](https://github.com/user-attachments/assets/dea1049a-ec62-4106-a30f-d26d63e46af0)
+
+<div align="center"><em>Top View of INU</em></div>
+
+
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
