@@ -4,10 +4,11 @@ This repository provides the **design, development, and control** resources for 
 
 ---
 
-<div style="display: inline-block; text-align: center;">
-  <img src="https://github.com/user-attachments/assets/8835d4b4-29ad-42ba-89b1-065307d096f8" alt="Front View of INU" width="300">
-  <p><em>Front View of INU</em></p>
+<div>
+  <img src="https://github.com/user-attachments/assets/8835d4b4-29ad-42ba-89b1-065307d096f8" alt="Front View of INU" style="display: block; margin-left: 0;">
+  <p style="text-align: center; width: 300px; margin: 0 auto;"><em>Front View of INU</em></p>
 </div>
+
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
