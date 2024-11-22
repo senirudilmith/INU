@@ -5,7 +5,7 @@ This repository provides the **design, development, and control** resources for 
 ---
 
 <div style="text-align: left;">
-  <img src="![WhatsApp Image 2024-11-22 at 16 57 12_e6109bbf](https://github.com/user-attachments/assets/2a7660c4-2bd7-4225-9094-e3b8aaed3a98)" alt="Front View of INU" style="width: 800px; display: block;">
+  <img src="![WhatsApp Image 2024-11-22 at 16 57 12_e6109bbf](https://github.com/user-attachments/assets/2a7660c4-2bd7-4225-9094-e3b8aaed3a98)" alt="Front View of INU" style="width: 300px; display: block;">
   <p style="text-align: center; width: 300px; margin: 0;"><em>Front View of INU</em></p>
 </div>
 
