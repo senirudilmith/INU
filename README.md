@@ -27,7 +27,7 @@ This repository provides the **design, development, and control** resources for 
 
 <div style="margin-bottom: 100px;">
   <img 
-    src="![WhatsApp Image 2024-11-22 at 16 57 11_5e56ee8d](https://github.com/user-attachments/assets/2b3399bf-efb8-41cb-a77e-aa11635ce40a)" 
+    src="https://github.com/user-attachments/assets/2b3399bf-efb8-41cb-a77e-aa11635ce40a" 
     alt="Side View of INU" 
     style="display: block; width: 800px; margin: 0 auto; margin-bottom: 20px;">
   <div align="center" style="margin-bottom: 100px;">
