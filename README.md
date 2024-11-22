@@ -18,20 +18,20 @@ This repository provides the **design, development, and control** resources for 
 <div style="margin-bottom: 100px;">
   <img 
     src="https://github.com/user-attachments/assets/5de48070-1751-4b7a-a934-e79c7125de1f" 
-    alt="Top View of INU" 
+    alt="Side View of INU" 
     style="display: block; width: 1000px; margin: 0 auto; margin-bottom: 20px;">
   <div align="center" style="margin-bottom: 100px;">
-    <em>Top View of INU</em>
+    <em>Side View of INU</em>
   </div>
 </div>
 
 <div style="margin-bottom: 100px;">
   <img 
     src="https://github.com/user-attachments/assets/2b3399bf-efb8-41cb-a77e-aa11635ce40a" 
-    alt="Side View of INU" 
+    alt="Top View of INU" 
     style="display: block; width: 800px; margin: 0 auto; margin-bottom: 20px;">
   <div align="center" style="margin-bottom: 100px;">
-    <em>Side View of INU</em>
+    <em>Top View of INU</em>
   </div>
 </div>
 
