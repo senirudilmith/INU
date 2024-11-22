@@ -11,7 +11,7 @@ This repository provides the **design, development, and control** resources for 
 </div>
 
 <div style="margin-top: 20px;">
-  <img src="https://github.com/user-attachments/assets/5de48070-1751-4b7a-a934-e79c7125de1f" alt="Top View of INU" style="display: block; margin-bottom: 20px; width: 800px;">
+  <img src="https://github.com/user-attachments/assets/5de48070-1751-4b7a-a934-e79c7125de1f" alt="Top View of INU" style="display: block; margin-bottom: 20px; width: 1000px;">
   <div align="center"><em>Top View of INU</em></div>
 </div>
 
