@@ -9,7 +9,7 @@ This repository provides the **design, development, and control** resources for 
   <img 
     src="https://github.com/user-attachments/assets/2a7660c4-2bd7-4225-9094-e3b8aaed3a98" 
     alt="Front View of INU" 
-    style="display: block; width: 800px; margin: 0 auto; margin-bottom: 20px;">
+    style="display: block; width: 1000px; margin: 0 auto; margin-bottom: 20px;">
   <div align="center" style="margin-bottom: 100px;">
     <em>Front View of INU</em>
   </div>
