@@ -5,13 +5,15 @@ This repository provides the **design, development, and control** resources for 
 ---
 
 
-![WhatsApp Image 2024-11-22 at 16 57 12_e6109bbf](https://github.com/user-attachments/assets/2a7660c4-2bd7-4225-9094-e3b8aaed3a98)
+<div>
+  <img src="https://github.com/user-attachments/assets/2a7660c4-2bd7-4225-9094-e3b8aaed3a98" alt="Front View of INU" style="display: block; margin-bottom: 20px; width: 300px;">
+  <div align="center"><em>Front View of INU</em></div>
+</div>
 
-<div align="center"><em>Front View of INU</em></div>
-
-![WhatsApp Image 2024-11-22 at 16 57 11_4d619ca1](https://github.com/user-attachments/assets/5de48070-1751-4b7a-a934-e79c7125de1f)
-
-<div align="center"><em>Top View of INU</em></div>
+<div style="margin-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/5de48070-1751-4b7a-a934-e79c7125de1f" alt="Top View of INU" style="display: block; margin-bottom: 20px; width: 300px;">
+  <div align="center"><em>Top View of INU</em></div>
+</div>
 
 
 
