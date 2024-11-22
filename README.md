@@ -5,13 +5,13 @@ This repository provides the **design, development, and control** resources for 
 ---
 
 
-<div>
-  <img src="https://github.com/user-attachments/assets/2a7660c4-2bd7-4225-9094-e3b8aaed3a98" alt="Front View of INU" style="display: block; margin-bottom: 100px; width: 8000px;">
+<div style="margin-bottom: 100px;">
+  <img src="https://github.com/user-attachments/assets/2a7660c4-2bd7-4225-9094-e3b8aaed3a98" alt="Front View of INU" style="display: block; width: 300px; margin: 0 auto;">
   <div align="center"><em>Front View of INU</em></div>
 </div>
 
-<div style="margin-top: 100px;">
-  <img src="https://github.com/user-attachments/assets/5de48070-1751-4b7a-a934-e79c7125de1f" alt="Top View of INU" style="display: block; margin-bottom: 100px; width: 1000px;">
+<div style="margin-bottom: 100px; margin-top: 100px;">
+  <img src="https://github.com/user-attachments/assets/5de48070-1751-4b7a-a934-e79c7125de1f" alt="Top View of INU" style="display: block; width: 300px; margin: 0 auto;">
   <div align="center"><em>Top View of INU</em></div>
 </div>
 
