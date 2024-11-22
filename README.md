@@ -35,6 +35,16 @@ This repository provides the **design, development, and control** resources for 
   </div>
 </div>
 
+<div style="margin-bottom: 100px;">
+  <img 
+    src="https://github.com/user-attachments/assets/34647cdc-2efa-472b-8557-a8f40b558ccc" 
+    alt="Orthoganal View of INU" 
+    style="display: block; width: 1000px; margin: 0 auto; margin-bottom: 20px;">
+  <div align="center" style="margin-bottom: 100px;">
+    <em>Orthoganal View of INU</em>
+  </div>
+</div>
+
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
